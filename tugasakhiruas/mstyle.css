@@ -1,0 +1,15 @@
+*{margin: 0px;padding: 0px;}
+a{text-decoration:none}
+body {font-size: 14px;font-family: verdana;}
+#heading{float: left;width: 640px;}
+#heading a {line-height: 65px;text-decoration: none;padding-left: 60px;color:#FFF;font-family: aardvark cafe;font-size: 40px;}
+#menu {background:black;height: 65px;min-height: 75%;margin: 0px;padding: 0px;}
+#menu ul {list-style: none;}
+#menu ul li {float: left;line-height: 65px;color:#FFF}
+#menu ul li a {float:left; width:100px; text-align:center; color:#FFF; text-decoration:none; }
+#menu ul li a:hover {background-color:grey;color:#FFF}
+.bg{text-align:center;height:500px;background-position: center;background-size: cover;background-image:url(desa.jpg);min-height: 75%;}
+.bhitam{color:white;background-color:black;}
+.tindex{margin:100px 100px 10px 100px;padding:10px 10px 10px 10px;min-height: 75%;}
+.tfooter{width: 100%;height: 50px;padding-left: 10px;line-height: 50px;background: black;color: white;position: absolute;bottom: 0px;}
+
